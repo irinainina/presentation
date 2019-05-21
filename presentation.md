@@ -7,9 +7,9 @@ Problems with traditional software development
 Слайд  2	
 
 Traditional:
-•	phased development;
-•	anticipated result;
-•	up-front design.
+- phased development;
+- anticipated result;
+- up-front design.
 
 Слайд  3	
 
@@ -18,11 +18,11 @@ The Waterfall model software development  is the earliest approach that was used
 Слайд  4	
 
 When to use the waterfall model:
-•	Requirements are very well known, clear and fixed.
-•	Technology is understood.
-•	There are no ambiguous requirements
-•	Resources with required expertise are available
-•	The project is short.
+-	Requirements are very well known, clear and fixed.
+-	Technology is understood.
+-	There are no ambiguous requirements
+-	Resources with required expertise are available
+-	The project is short.
 
 Слайд  5	
 
@@ -43,26 +43,26 @@ Developers don't know future difficulties when designing a new software product.
 Слайд  9	
 
 Requirements change
-•	changes get more and more expensive
-•	customers don't get what they want
+-	changes get more and more expensive
+-	customers don't get what they want
 
 Слайд  10	
 
 Project Takes Too Long
-•	32% of projects delivered successfully
-•	Long duration defers revenue
+-	32% of projects delivered successfully
+-	Long duration defers revenue
 
 Слайд  11	
 
 No Time for Testing
-•	Quality assurance gets crunched
-•	Late integration means late failures
+-	Quality assurance gets crunched
+-	Late integration means late failures
 
 Слайд  12	
 
 Time Wasted on Junk
-•	52% of requirements implemented
-•	64% of functionality rarely used
+-	52% of requirements implemented
+-	64% of functionality rarely used
 
 Слайд  13	
 
